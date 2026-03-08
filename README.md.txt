@@ -1,30 +1,63 @@
-# Dashboard Comercial – Power BI
+# 📊 Dashboard Comercial - Power BI
 
-Este projeto apresenta um dashboard comercial desenvolvido no Power BI para análise de desempenho de vendas.
+## 📌 Sobre o Projeto
 
-## Fonte de Dados
-Os dados utilizados foram extraídos de uma planilha Excel utilizada como base para análise.
+Este projeto apresenta um Dashboard Comercial desenvolvido no Power BI com o objetivo de analisar o desempenho de vendas e transformar dados em informações estratégicas para tomada de decisão.
 
-## Indicadores Analisados
+O dashboard foi construído utilizando uma base de dados em Excel e permite visualizar indicadores importantes do negócio.
 
-- Receita total
-- Produtos vendidos
-- Ticket médio
-- Quantidade de clientes
-- Faturamento por ano e mês
-- Faturamento por gênero
-- Faturamento por continente
-- Faturamento por marca
+---
 
-## Ferramentas Utilizadas
+## 📈 Indicadores Analisados
+
+- Receita Total
+- Quantidade de Produtos Vendidos
+- Ticket Médio
+- Quantidade de Clientes
+- Faturamento por Ano e Mês
+- Faturamento por Gênero
+- Faturamento por Continente
+- Faturamento por Marca
+
+---
+
+## 🛠 Ferramentas Utilizadas
 
 - Power BI
 - Excel
+- Análise de Dados
 
-## Objetivo
+---
 
-Transformar dados comerciais em informações visuais para apoiar a tomada de decisão estratégica.
+## 🎯 Objetivo
 
-## Visual do Dashboard
+Demonstrar habilidades em:
+
+- Análise de dados
+- Construção de dashboards
+- Visualização de informações
+- Business Intelligence
+
+---
+
+## 🖼 Visual do Dashboard
 
 ![Dashboard](dashboard.png)
+
+---
+
+## 📂 Estrutura do Projeto
+
+dashboard-comercial-powerbi
+
+dashboard_comercial.pbix  
+base_dados.xlsx  
+dashboard.png  
+README.md  
+
+---
+
+## 👨‍💻 Autor
+
+Marcos David  
+Estudante de Análise e Desenvolvimento de Sistemas  
